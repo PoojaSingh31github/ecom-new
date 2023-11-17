@@ -1,0 +1,93 @@
+*********************THOUGHT NOTES*********************
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+~~~~HOME PAGE~~~~
+
+So, I am going to tell about my project...... first of all, I want to share that when I started making my project first I made a HTML file give it a name of homepage then, I started making the navbar. I need to make two navbar there.first was in left side, I gave a Div and heading to it and give it a name of clothing store and then in right side I make a icon of card okay and give it a amount number like whenever I would click on card icron to add in my card webpage so it will add on and it will show me that the number of adding carts like one two three four anything.............. 
+
+````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+
+Now, if I talk about my second navbar here I linked different web pages like a home page about page contact page kid page women's all categories and mens all categories okay then if I come down from the navbar..........
+
+````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+
+then I used a carousel, that one I used from the bootstrap I give the three carousal inner in IT of different images and gave a heading and a paragraph to it which show the carousal effect.then after that I use one more owl corrosion here. I give it different images and give it add to card functionality right....... after that.........
+
+````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+
+Now, I want to tell about my footer part.So, input A Part I give a Div of class p2 m0 container.I give a different div of class containerand then 3 div first was for company second was for the contact third one for the categories and last one is about.......
+
+````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+
+ Whenever we inspect and make checking its responsiveness so at the time all my three divs which was of company contact in category they will come on one side and about will come down and when I will decrease or more size so it will coming.and in last I give a copyright.and then I added some mine links of Facebook instagram in this........
+
+````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+
+ If I tell about my linked file what I linked in my homepage so I link different javascripts file like "data.JS", "script.js", "card.js" these all files I link here after that I link my Bootstrap JavaScript file there are two JavaScript file what was about jquery and and some script for owl carousal and now if I talk about my CSS links file. I used CSS owl carousal file there are two sheets one was about theme and one was about normal. and then Bootstrap, seriously and there is one more and at last I linked my style sheet in which I will write my all that styles.......
+ ___________________________________________________________________________________________________________________
+ ___________________________________________________________________________________________________________________
+
+
+ ~~~~ALL THE SIMILARITIES IN MY WEBPAGE~~~~
+
+Now in short I want to give a brief about that what is the similar things I did in my all pages like when I completed my home page then I did one thing that I make copy and paste my all the header and footer in all the pages. I made the login page, about, women, man and kids and took my header and footer part and paste there and also all the links.
+
+____________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________
+
+~~~~ABOUT~~~~
+
+in about page, what I did I just add a progressive chart I made this progressive chart which was I made by the bootstrap.In starting, I give a heading of about us and after that I put my that progressive chart I keep the different values like 30 25 50 75 100 and all and after that I give a one more heading and give it us some text about the about pages and them.jeevitus.at last I meet.in it last I made six div and give some heading to it and write some brief about it like a Smart men’s clothing, Trendy women’s clothing, Fashionable footwear and all and here I did one things special like I put icon of the heart in end of my all the headings...........
+____________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________
+
+~~~~login page~~~~
+here, I tried something new where i put login part in modal. and link it with the signup icon.
+
+____________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________
+
+~~~~~~~~~problem faces~~~~~~~~~
+````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+
+1.) I want to share... what are the some problems I faced here during making my project. So, first of all when I was trying to link my all the pages at that time, I was facing problem in defining the path for them  and making them up and down I was facing the challenge that the time when I went on my web page and wants to load my page so that time it was showing me page not found.
+
+````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+
+2.) I want to share my second problem with you that when I completed my project and wanted to show the sperate image of data in my all page, all products, or the separated webpage of particular type. but was not able to solve it that time I was unable to define it properly.... how can I do that?? but after sometimes I gave the template to my each product defined in product.js to make data file proper and define it so it start working.
+
+````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+
+3.) now I want to share some my different problems which was not that much big issue but want to share when I started my project at the time I just made my different pages and define the different types in my div and its imformation.... like I have one image and its description and its amount and all then, I just did copy paste for my different web pages if there are 20 to 25  pages are there so I did the same thing. so what I did to make it look nice, I just did... I made the html part in  my JS part. defined the function.....so that it can give me the all the products and all the information in my separate web pages properly.
+
+````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+
+4.) i was facing problem in some little things aswell like duing making the function linking the js file.
+I want to share one more think about the linking my JS file so what I did there is my cart page and there is one my main.js. So, when I need to link my all the JS files for product.js, main.js, cart.js.... at the time but I need to do to link my data of JS page. I made a mistake and what I did I just link my main.js first and then my product page because of which the data was not able to link with my main.js file........... was not able to find the data that where is the data and how can I load it on my different web pages. 
+____________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________
+
+
+~~~~~~~~~~~~~~~~~~~~~~ANIMATION~~~~~~~~~~~~~~~~~~~~~~
+````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+Now I want to share something about the animation which are used in my web page so I used the animated.CS and wow.JS first I will use the animation.CSS but when I use that, it give me the animation effect to my all products but what the problem here?? I was facing that when I was loading it it was shoeing effect to all the web page and when I scroll up so it doesn't give me the effects. I can't able to see the effect in my page which was downside so.then i used wow.js because of which what happened in my page when I when will I scroll my web page to upside at that time it will show me the animation effect to my web page different animations websites also available like.... AOS which was a very nice website but I didn't use that one I just you animete.css.
+
+____________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________
+
+~~~~~~~~~~~~~~~~~~~~~~kids, men, and women page~~~~~~~~~~~~~~~~~~~~~~
+````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+
+here I want to tell something about my pages of kid, man and women. so first of all, I want to tell that I made a folder of products and in it men all mens, pant, shirt, traditional this type of pages are there and in women, all women's product dress, pant and suit are there and separate kid page is there and one more pages here that is all product. all the images of all the things will be visible the images of kids.images of women in a man all will visible and what will happen in women part all will the images of the women's will be appear......  and in man all the clothes of man will be visible and in my all the web page of the women and men I just link one more thing here I linked the card page which will be visible here and when I will go on the view cart it will visible the whole page of the cart page here I give the one more thing the short value but I didn't give any functionality to it right now.
+
+____________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________
+
+~~~~~~~~~~~~~~~~~~~~~~downloaded files from diffrent source~~~~~~~~~~~~~~~~~~~~~~
+````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+
+So, here I want to share some fileswhich was downloaded source which I used from the different sites like for css here I used one animate.CSS which I used in the animation part and there is one more file which is bootstrap so bootstrap  was mainly used for the CSS and here I just link the downloaded  files type here I used one custom.css where wrote all that's all I did in my boobs step file now I want to tell about my custom got CSS file but I did here so here I wrote my all the personal styles....custom.CSS so here I wrote all the style which I am going to write by myself by not using from the different source like I want to style I want to style my different class which was given in my different types like in home page in my product page and anywhere so this all so I just define the height, position, transition, display,box Shadow such type of style.....now about slick.css all things the featured product in my homepage that was showing me the effect of owl carousal so I just use slick.CSS here I just took it from the somewhere from this website.
+
+____________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________
